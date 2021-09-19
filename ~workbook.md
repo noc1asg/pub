@@ -13,8 +13,10 @@ service.yml : https://gist.github.com/tomdglenn91/46fd1ba1f4f2cb6ae165d7e25a82e2
 executing configuration (as __api-service__) : 
 
 > kubectl apply -f service.yml
+
+By default, a service is assigned the type of `ClusterIP` 
  
-fetching our public IP (in case of __type: LoadBalancer__) using the following :
+fetching our public IP (as __type: LoadBalancer__) :
 
 > kubectl get service api-service
 
