@@ -2,11 +2,15 @@
 
 https://medium.com/@tomglenn91/kubernetes-for-dummies-by-a-dummy-80b67c00214
 
-service.yml : https://gist.github.com/tomdglenn91/46fd1ba1f4f2cb6ae165d7e25a82e26d
-
 deployment.yml : https://gist.github.com/tomdglenn91/8ae2fc55ad1340166f0744c3a10eea61 
 
-command for executing configuration : 
+creating pods (with __2 replicas__|instances) :
+
+> kubectl apply -f deployment.yml
+
+service.yml : https://gist.github.com/tomdglenn91/46fd1ba1f4f2cb6ae165d7e25a82e26d
+
+executing configuration (as __api-service__) : 
 
 > kubectl apply -f service.yml
  
