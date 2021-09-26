@@ -6,6 +6,8 @@
   - https://bgpview.io/asn/20521 
   - https://support.atlassian.com/jira-service-management-cloud/docs/what-is-the-change-calendar/
   - https://forum.wordreference.com/threads/this-is-good-to-me-and-for-me.3322312/
+      - https://www.allearsenglish.com/aee-1094-sounds-great-to-me-the-difference-between-for-me-and-to-me-in-english/
+      - https://english.stackexchange.com/questions/265961/it-is-good-for-me-or-it-is-good-to-me
   - 
  
 - august 
