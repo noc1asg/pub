@@ -8,7 +8,7 @@
 
 - https://www.windowscentral.com/how-check-your-computer-uptime-windows-10
 ```	
-wmic path Win32_OperatingSystem get LastBootUpTime
+> wmic path Win32_OperatingSystem get LastBootUpTime
 
 For example, the LastBootUpTime 20181219104602.500000-300 can be broken down using the info below.
 	Year: 2018.
@@ -20,7 +20,7 @@ For example, the LastBootUpTime 20181219104602.500000-300 can be broken down usi
 	Milliseconds: 500000.
 	GMT: -300 (5 hours ahead of GMT).
 	
-systeminfo | find "System Boot Time"
+> systeminfo | find "System Boot Time"
 
 C:\Users>systeminfo | find "System Boot Time"
   System Boot Time:          24/09/2021, 20:01:11	
