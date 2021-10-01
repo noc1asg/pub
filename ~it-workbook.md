@@ -28,6 +28,12 @@ https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-w
 
 https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16
 
+- 
+
 ((https://memory-alpha.fandom.com/wiki/Borg)) : “Borg” is the name for the internal Google project Kubernetes was based on. 
+
+# some next item 
+
+.....
 
 // https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax //
