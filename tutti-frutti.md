@@ -1,4 +1,4 @@
-# but it-related \in form of URLs\
+# but it-related 
 
 - september
 
