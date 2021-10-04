@@ -18,3 +18,4 @@
 - august 
 
   - [The nightmare that is wp-cron.php | by The cPanel Guy | Medium](https://medium.com/@thecpanelguy/the-nightmare-that-is-wpcron-php-ae31c1d3ae30)
+  - https://www.sqlskills.com/blogs/paul/ 
