@@ -2,7 +2,8 @@
 
 - october
   - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/506
-  -
+  - https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/
+  - 
 
 
 - september
