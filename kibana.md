@@ -1,7 +1,7 @@
 # some tips 
 
 filter 
-``{
+```{
   "query": {
     "bool": {
       "should": [
@@ -25,4 +25,4 @@ filter
     }
   }
 }
-``
+```
