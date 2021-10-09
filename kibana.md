@@ -1,6 +1,6 @@
 # some tips 
 
-filter 
+filter as Query DSL : 
 ```{
   "query": {
     "bool": {
