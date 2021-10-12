@@ -3,6 +3,7 @@
 - october
   - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/506
   - https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/
+  - https://docs.google.com/document/d/103JFSb_-RTFksSZWx2B2NWr5bc1aJxRYiLohh0QSj74/edit { from https://dou.ua/lenta/interviews/savka-about-work-in-google/ }
   - 
 
 
