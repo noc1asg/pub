@@ -110,6 +110,14 @@ You can check out the state of the service by executing the following command:
 NAME             TYPE           CLUSTER-IP      EXTERNAL-IP   PORT(S)        AGE
 sa-frontend-lb   LoadBalancer   10.101.244.40   <pending>     80:30708/TCP   7m
 ```
+The External-IP is in pending state (and don’t wait, as it’s not going to change). This is only because we are using Minikube. If we would have executed this in a cloud provider like Azure or GCP, we would get a Public IP, which makes our services worldwide accessible.
+
+Despite that, Minikube doesn’t let us hanging it provides a useful command for local debugging, execute the following command:
+```
+> minikube service sa-frontend-lb
+Opening kubernetes service default/sa-frontend-lb in default browser...
+```
+This opens your browser pointing to the services IP. After the Service receives the request, it will forward the call to one of the pods (which one doesn’t matter). This abstraction enables us to see and act with the numerous pods as one unit, using the Service as an entry point.
 
 
 
