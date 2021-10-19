@@ -32,6 +32,7 @@ fetching our public IP (as __type: LoadBalancer__) :
 
 ## https://medium.com/free-code-camp/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882
 .....
+![fig.14](https://miro.medium.com/max/875/1*8vbHfzW79J2BzpK6X8Tp2g.png)
 To summarize, the main properties of Pods are (also shown in figure 14):
 1. Each pod has a unique IP address in the Kubernetes cluster
 2. Pod can have multiple containers. The containers share the same port space, as such they can communicate via localhost (understandably they cannot use the same port), and communicating with containers of the other pods has to be done in conjunction with the pod ip.
