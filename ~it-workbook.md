@@ -76,6 +76,40 @@ Create the new pod by executing the following command:
 > kubectl create -f sa-frontend-pod2.yaml
 pod "sa-frontend2" created
 ```
+**Attention: this is not the final solution, and it has many flaws**. We will improve this in the section for another Kubernetes resource
+
+The Nginx web server with the static files is running inside two different pods. Now we have two questions:
+- How do we expose it externally to make it accessible via URL, and
+- How do we load balance between them?
+Kubernetes provides us the Services resource. Let’s jump right into it, in the next section.
+
+![pods with lables & manifests](https://miro.medium.com/max/875/1*nFNYyevWnLxgpfGSq5X_pg.png)
+
+```
+apiVersion: v1
+kind: Service              # 1
+metadata:
+  name: sa-frontend-lb
+spec:
+  type: LoadBalancer       # 2
+  ports:
+  - port: 80               # 3
+    protocol: TCP          # 4
+    targetPort: 80         # 5
+  selector:                # 6
+    app: sa-frontend       # 7
+```
+To create the service execute the following command:
+```
+> kubectl create -f service-sa-frontend-lb.yaml
+service "sa-frontend-lb" created
+```
+You can check out the state of the service by executing the following command:
+```
+> kubectl get svc
+NAME             TYPE           CLUSTER-IP      EXTERNAL-IP   PORT(S)        AGE
+sa-frontend-lb   LoadBalancer   10.101.244.40   <pending>     80:30708/TCP   7m
+```
 
 
 
