@@ -41,18 +41,23 @@ To summarize, the main properties of Pods are (also shown in figure 14):
 (1) Containers have their own isolated filesystems, though they are able to share data using the Kubernetes resource Volumes.
 
 ```
-> **kubectl create -f sa-frontend-pod.yaml** 
+> kubectl create -f sa-frontend-pod.yaml 
 pod "sa-frontend" created
 ```
 
 ```
-> **kubectl get pods** 
+> kubectl get pods 
 NAME                          READY     STATUS    RESTARTS   AGE
 sa-frontend                   1/1       Running   0          7s
 ```
 
+To access the application externally we create a Kubernetes resource of type **Service**, that will be our next article, which is the proper implementation, but for quick debugging we have another option, and that is port-forwarding:
+```
+> kubectl port-forward sa-frontend 88:80
+Forwarding from 127.0.0.1:88 -> 80
+```
 
-# some next item 
+
 
 .....
 
