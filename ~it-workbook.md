@@ -39,6 +39,11 @@ To summarize, the main properties of Pods are (also shown in figure 14):
 
 (1) Containers have their own isolated filesystems, though they are able to share data using the Kubernetes resource Volumes.
 
+> **kubectl create -f sa-frontend-pod.yaml**
+> 
+> pod "sa-frontend" created
+
+
 
 
 # some next item 
