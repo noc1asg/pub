@@ -32,7 +32,9 @@ fetching our public IP (as __type: LoadBalancer__) :
 
 ## https://medium.com/free-code-camp/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882
 .....
+
 ![fig.14](https://miro.medium.com/max/875/1*8vbHfzW79J2BzpK6X8Tp2g.png)
+
 To summarize, the main properties of Pods are (also shown in figure 14):
 1. Each pod has a unique IP address in the Kubernetes cluster
 2. Pod can have multiple containers. The containers share the same port space, as such they can communicate via localhost (understandably they cannot use the same port), and communicating with containers of the other pods has to be done in conjunction with the pod ip.
@@ -55,6 +57,24 @@ To access the application externally we create a Kubernetes resource of type **S
 ```
 > kubectl port-forward sa-frontend 88:80
 Forwarding from 127.0.0.1:88 -> 80
+```
+```
+apiVersion: v1
+kind: Pod                                            
+metadata:
+  name: sa-frontend2      # The only change
+spec:                                                
+  containers:
+    - image: rinormaloku/sentiment-analysis-frontend 
+      name: sa-frontend                              
+      ports:
+        - containerPort: 80
+```
+
+Create the new pod by executing the following command:
+```
+> kubectl create -f sa-frontend-pod2.yaml
+pod "sa-frontend2" created
 ```
 
 
