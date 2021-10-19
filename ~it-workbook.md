@@ -1,6 +1,6 @@
 # kubernetes 101
 
-https://medium.com/@tomglenn91/kubernetes-for-dummies-by-a-dummy-80b67c00214
+## https://medium.com/@tomglenn91/kubernetes-for-dummies-by-a-dummy-80b67c00214
 
 deployment.yml : https://gist.github.com/tomdglenn91/8ae2fc55ad1340166f0744c3a10eea61 
 
@@ -22,15 +22,21 @@ fetching our public IP (as __type: LoadBalancer__) :
 
 ![diagram](https://miro.medium.com/max/875/1*OA4FgRfYxJ-P2XrGIbbdbg.png)
 
-https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0
+## https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0
 
 `Ingress {as L7 s/w router} is probably the most powerful way to expose your services, but can also be the most complicated. There are many types of Ingress controllers, from the Google Cloud Load Balancer, Nginx, Contour, Istio, and more. There are also plugins for Ingress controllers, like the cert-manager, that can automatically provision SSL certificates for your services.`
 
-https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16
-
-- 
+## https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16
 
 ((https://memory-alpha.fandom.com/wiki/Borg)) : “Borg” is the name for the internal Google project Kubernetes was based on. 
+
+## https://medium.com/free-code-camp/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882
+.....
+To summarize, the main properties of Pods are (also shown in figure 14):
+1. Each pod has a unique IP address in the Kubernetes cluster
+2. Pod can have multiple containers. The containers share the same port space, as such they can communicate via localhost (understandably they cannot use the same port), and communicating with containers of the other pods has to be done in conjunction with the pod ip.
+3. Containers in a pod share the same volume*, same ip, port space, IPC namespace.
+
 
 # some next item 
 
