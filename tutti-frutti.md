@@ -8,7 +8,8 @@
     - https://cloud.redhat.com/learn/topics/rkt
     - https://www.katacoda.com/learn
     - 
-
+  - https://lazyadmin.nl/powershell/test-netconnection/
+  - 
 
 - september
 
