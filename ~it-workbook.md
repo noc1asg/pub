@@ -36,7 +36,9 @@ To summarize, the main properties of Pods are (also shown in figure 14):
 1. Each pod has a unique IP address in the Kubernetes cluster
 2. Pod can have multiple containers. The containers share the same port space, as such they can communicate via localhost (understandably they cannot use the same port), and communicating with containers of the other pods has to be done in conjunction with the pod ip.
 3. Containers in a pod share the same volume(1), same ip, port space, IPC namespace.
+
 (1) Containers have their own isolated filesystems, though they are able to share data using the Kubernetes resource Volumes.
+
 
 
 # some next item 
