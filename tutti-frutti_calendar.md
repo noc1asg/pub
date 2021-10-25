@@ -11,8 +11,8 @@
   - https://lazyadmin.nl/powershell/test-netconnection/
   - https://docs.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection?view=windowsserver2019-ps
   - https://status.elastic.co/
-  - https://ably.com/tutorials
-  - https://developer.nexmo.com/messaging/sms/overview { https://status.ably.com/ }
+  - https://ably.io { https://status.ably.com/ } 
+  - https://developer.nexmo.com/messaging/sms/overview 
   - 
 
 - september
