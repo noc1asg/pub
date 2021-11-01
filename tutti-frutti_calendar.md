@@ -1,7 +1,6 @@
 # but it-related 
 
 - november 
-  - 
 
 
 - october
