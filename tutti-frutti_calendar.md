@@ -1,5 +1,9 @@
 # but it-related 
 
+- november 
+  - 
+
+
 - october
   - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/506
   - https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/
@@ -13,7 +17,7 @@
   - https://status.elastic.co/
   - https://ably.io { https://status.ably.com/ } 
   - https://developer.nexmo.com/messaging/sms/overview 
-  - 
+  - https://kb.paessler.com/en/topic/72165-perfcounter-iis-application-pool-0x800007d0
 
 - september
 
