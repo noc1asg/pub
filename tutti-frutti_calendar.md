@@ -2,6 +2,8 @@
 
 - november 
   - https://www.trustpilot.com/review/paessler.com
+  - https://github.com/rzvme/cv2
+    - https://randomuser.me/
   - 
 
 - october
@@ -17,7 +19,7 @@
   - https://status.elastic.co/
   - https://ably.io { https://status.ably.com/ } 
   - https://developer.nexmo.com/messaging/sms/overview 
-  - https://kb.paessler.com/en/topic/72165-perfcounter-iis-application-pool-0x800007d0
+  - https://kb.paessler.com/en/topic/72165-perfcounter-iis-application-pool-0x80000
     - https://kb.paessler.com/en/topic/73440-is-there-a-workaround-for-no-data-to-return-in-iis-app-pool-sensors#reply-279849 
 
 - september
