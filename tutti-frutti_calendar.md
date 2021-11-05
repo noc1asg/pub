@@ -4,7 +4,11 @@
   - https://www.trustpilot.com/review/paessler.com
   - https://github.com/rzvme/cv2
     - https://randomuser.me/
-  - 
+  - https://en.wikipedia.org/wiki/Sanity_check
+    - https://habr.com/ru/post/358142/
+    - https://www.guru99.com/smoke-sanity-testing.html
+    - https://www.geeksforgeeks.org/sanity-testing-software-testing/
+    - https://www.softwaretestinghelp.com/smoke-testing-and-sanity-testing-difference/
 
 - october
   - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/506
