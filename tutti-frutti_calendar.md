@@ -11,6 +11,7 @@
     - https://www.softwaretestinghelp.com/smoke-testing-and-sanity-testing-difference/
   - https://nuxtjs.org/
     - https://codesandbox.io/s/github/nuxtlabs/examples/tree/master/routing/hello-world?from-embed 
+    - https://medium.com/dont-leave-me-out-in-the-code/nuxt-redirects-in-4-simple-steps-9a0d5cb4c0d 
   - 
 
 - october
