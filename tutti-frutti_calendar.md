@@ -10,6 +10,7 @@
     - https://www.geeksforgeeks.org/sanity-testing-software-testing/
     - https://www.softwaretestinghelp.com/smoke-testing-and-sanity-testing-difference/
   - https://nuxtjs.org/
+    - https://codesandbox.io/s/github/nuxtlabs/examples/tree/master/routing/hello-world?from-embed 
   - 
 
 - october
