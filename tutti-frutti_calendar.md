@@ -12,6 +12,8 @@
   - https://nuxtjs.org/
     - https://codesandbox.io/s/github/nuxtlabs/examples/tree/master/routing/hello-world?from-embed 
     - https://medium.com/dont-leave-me-out-in-the-code/nuxt-redirects-in-4-simple-steps-9a0d5cb4c0d 
+  - https://dan-it.com.ua/uk/program/kiev/business-intelligence/
+  - https://www.lifewire.com/connect-to-wireless-network-using-windows-4148205 {  netsh wlan show interface }
   - 
 
 - october
