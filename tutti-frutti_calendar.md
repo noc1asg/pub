@@ -1,5 +1,10 @@
 # but it-related 
 
+- december 
+  - https://toggl.com/blog/lightbulb-cartoon-developers
+  - 
+
+
 - november 
   - https://www.trustpilot.com/review/paessler.com
   - https://github.com/rzvme/cv2
@@ -14,7 +19,6 @@
     - https://medium.com/dont-leave-me-out-in-the-code/nuxt-redirects-in-4-simple-steps-9a0d5cb4c0d 
   - https://dan-it.com.ua/uk/program/kiev/business-intelligence/
   - https://www.lifewire.com/connect-to-wireless-network-using-windows-4148205 {  netsh wlan show interface }
-  - 
 
 - october
   - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/506
