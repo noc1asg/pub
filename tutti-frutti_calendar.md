@@ -4,6 +4,7 @@
   - https://toggl.com/blog/lightbulb-cartoon-developers
   - https://try.redis.io/ 
     - https://redis.io/commands 
+  - { navzdihin } https://blog.uptimerobot.com/uptimerobot-august-2021-update/ 
   - 
 
 
