@@ -3,6 +3,7 @@
 - december 
   - https://toggl.com/blog/lightbulb-cartoon-developers
   - https://try.redis.io/ 
+    - https://redis.io/commands 
   - 
 
 
