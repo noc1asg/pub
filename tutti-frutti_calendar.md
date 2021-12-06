@@ -6,6 +6,7 @@
     - https://redis.io/commands 
   - { navzdihin } https://blog.uptimerobot.com/uptimerobot-august-2021-update/ 
   - Nolt · Feedback boards your users will love | https://nolt.io/ 
+  - https://www.sightwordsgame.com/speaking/common-courtesy/ 
   - 
 
 
