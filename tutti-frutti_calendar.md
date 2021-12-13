@@ -7,6 +7,7 @@
   - { navzdihin } https://blog.uptimerobot.com/uptimerobot-august-2021-update/ 
   - Nolt · Feedback boards your users will love | https://nolt.io/ 
   - https://www.sightwordsgame.com/speaking/common-courtesy/ 
+  - https://docs.microsoft.com/en-us/powershell/scripting/dsc/overview/overview?view=powershell-7.2 (DSC powerShell)  
   - 
 
 
