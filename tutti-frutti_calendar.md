@@ -8,6 +8,7 @@
   - Nolt · Feedback boards your users will love | https://nolt.io/ 
   - https://www.sightwordsgame.com/speaking/common-courtesy/ 
   - https://docs.microsoft.com/en-us/powershell/scripting/dsc/overview/overview?view=powershell-7.2 (DSC powerShell)  
+  - https://www.quora.com/Why-are-USB-C-docking-stations-so-expensive (usb 3.0 VS type-C)
   - 
 
 
