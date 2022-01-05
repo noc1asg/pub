@@ -1,7 +1,7 @@
 # but it-related 
 
 - 2022 january 
-  - https://classroom.udacity.com/courses/ud064/  {  Cloud Native Computing Foundation https://github.com/cncf/ course }
+  - https://classroom.udacity.com/courses/ud064/  { [Cloud Native Computing Foundation](https://github.com/cncf/) course }
   - 
 
 
