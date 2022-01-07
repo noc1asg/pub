@@ -2,6 +2,7 @@
 
 - 2022 january 
   - https://classroom.udacity.com/courses/ud064/  { [Cloud Native Computing Foundation](https://github.com/cncf/) course }
+  - https://docs.docker.com/docker-hub/ 
   - 
 
 
