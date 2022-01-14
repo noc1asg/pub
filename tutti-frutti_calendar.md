@@ -3,7 +3,13 @@
 - 2022 january 
   - https://classroom.udacity.com/courses/ud064/  { [Cloud Native Computing Foundation](https://github.com/cncf/) course }
   - https://docs.docker.com/docker-hub/ 
-  - 
+  - "Best Practices For Application Deployment"
+    - https://microservices.io/patterns/observability/health-check-api.html
+    - https://prometheus.io/docs/instrumenting/writing_exporters/#metrics
+    - https://logz.io/blog/logging-best-practices/
+    - https://www.tutorialspoint.com/log4j/log4j_logging_levels.htm
+    - https://containerjournal.com/topics/container-ecosystems/enabling-distributed-tracing-for-microservices-with-jaeger-in-kubernetes/
+- 
 
 
 - december 
