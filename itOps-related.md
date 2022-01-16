@@ -11,7 +11,6 @@ A: Ahm… Ermm… (Let me google).
 Q: Rolling out updates without breaking anything? And if we do, how can we go back to the working version.
   - > Kubernetes solves all these questions (and more!). My attempt to reduce Kubernetes in one sentence would be: “Kubernetes is a Container Orchestrator, that abstracts the underlying infrastructure. (Where the containers are run)”.
 - 
-- 
 
 
 ## some practice 
