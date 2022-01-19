@@ -9,7 +9,11 @@
     - https://logz.io/blog/logging-best-practices/
     - https://www.tutorialspoint.com/log4j/log4j_logging_levels.htm
     - https://containerjournal.com/topics/container-ecosystems/enabling-distributed-tracing-for-microservices-with-jaeger-in-kubernetes/
+- <web-dev>pli</> pre-login info 
+  - [terminology - Term for "pre-login" pages - User Experience Stack Exchange](https://ux.stackexchange.com/questions/90316/term-for-pre-login-pages) 
+  - [ [MS-TDS]: PRELOGIN | Microsoft Docs ](ttps://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-tds/60f56408-0188-4cd5-8b90-25c6f2423868)
 - 
+
 
 
 - december 
