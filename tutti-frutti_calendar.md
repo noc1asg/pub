@@ -12,6 +12,7 @@
   - <web-dev>pli</> pre-login info 
     - [terminology - Term for "pre-login" pages - User Experience Stack Exchange](https://ux.stackexchange.com/questions/90316/term-for-pre-login-pages) 
     - [ [MS-TDS]: PRELOGIN | Microsoft Docs ](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-tds/60f56408-0188-4cd5-8b90-25c6f2423868)
+  - for QA BDD [Framework for .NET - SpecFlow - Enhance Your Automated Tests](https://specflow.org/) 
   - 
 
 
