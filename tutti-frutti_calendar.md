@@ -14,7 +14,9 @@
     - [ [MS-TDS]: PRELOGIN | Microsoft Docs ](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-tds/60f56408-0188-4cd5-8b90-25c6f2423868)
   - for QA BDD [Framework for .NET - SpecFlow - Enhance Your Automated Tests](https://specflow.org/) 
   - just for QA, etc. puproses  https://www.fakenamegenerator.com/ 
-  - 
+  - ex-TFS, Azure devOps 
+    - https://www.azuredevopslabs.com/labs/azuredevops/testmanagement/
+    - https://www.gurock.com/testrail/docs/integrate/tools/azure-devops/ 
 
 
 
