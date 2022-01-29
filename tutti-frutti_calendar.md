@@ -17,6 +17,8 @@
   - ex-TFS, Azure devOps 
     - https://www.azuredevopslabs.com/labs/azuredevops/testmanagement/
     - https://www.gurock.com/testrail/docs/integrate/tools/azure-devops/ 
+  - https://www.palletsprojects.com/p/flask/ 
+  - 
 
 
 
