@@ -18,6 +18,7 @@
     - https://www.azuredevopslabs.com/labs/azuredevops/testmanagement/
     - https://www.gurock.com/testrail/docs/integrate/tools/azure-devops/ 
   - https://www.palletsprojects.com/p/flask/ ( https://wsgi.readthedocs.io/en/latest/ ) 
+  - https://openresty.org/en/ ( 'Scalable Web Platform by Extending NGINX with Lua' )  https://github.com/openresty/openresty 
   - 
 
 
